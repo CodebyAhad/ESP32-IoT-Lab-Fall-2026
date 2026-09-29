@@ -1,8 +1,8 @@
 // Week3-Lecture1
-// Interrupt (External -Button)
+// Interrupt
 // Embedded IoT System Fall-2026
 
-// Name: xyz                  Reg#: 1234
+// Name: Abdul Ahad              Reg#: 1051
 
 #include <Arduino.h>
 const int buttonPin = 32;

@@ -1,3 +1,9 @@
+// Week2-Lecture1-2
+// Blink
+// Embedded IoT System Fall-2026
+
+// Name: Abdul Ahad                Reg#: 1051
+
 #include <Arduino.h>
 
 #define LED_PIN 2
